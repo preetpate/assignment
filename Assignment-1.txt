@@ -1,4 +1,4 @@
-			Module 1: Introduction to Data Science
+Module 1: Introduction to Data Science
 
 Theoretical Assignments:
 
@@ -208,6 +208,7 @@ Generative AI also supports better communication of insights. Instead of manuall
 In real-world applications, generative AI brings personalization and innovation. In retail, it can generate product recommendations tailored to individual customers. In finance, it can simulate market scenarios and suggest investment strategies. In healthcare, it can help in drug discovery by generating new molecular designs. These possibilities show how generative AI is opening new doors for industries that rely on data science.
 
 However, along with opportunities, generative AI also brings challenges. Issues of ethics, fairness, and responsible use are very important. Since AI has the power to generate realistic but fake content, data scientists must ensure that these tools are used carefully, with transparency and accountability.
+
 
 
 
